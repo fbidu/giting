@@ -1,6 +1,6 @@
 __author__ = 'fbidu'
 
-BASE_URL = "https://github.com/github/gitignore/blob/master/"
+BASE_URL = "https://raw.githubusercontent.com/github/gitignore/master/"
 GITIGNORE_URL = ""
 
 def has_gitignore():
